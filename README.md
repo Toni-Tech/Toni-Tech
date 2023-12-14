@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on CBDE (Certified Blockchain Developer Ethereum) Certification<br>📜 Creating Smart Contracts<br>🤓 Currently learning Solidity, Remix IDE, Meta Mask & Web 3 Dev<br>🙏🏾 Ask me about Blockchain and Smart Contracts<br><br>⛓️ Quote: "Blockchain and Smart Contracts are a game changer!"<br>
+🔭 Working on CBDE (Certified Blockchain Developer Ethereum) Certification<br>📜 Creating Smart Contracts<br>🤓 Currently learning Solidity, Remix IDE, Meta Mask & Web 3 Development<br>🙏🏾 Ask me about Blockchain and Smart Contracts<br><br>⛓️ Quote: "Blockchain and Smart Contracts are a game changer!"<br>
 
 
 ## 🌐 Socials:
